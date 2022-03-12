@@ -7,10 +7,9 @@ we also make 100 days average , 200 days average upto 400 days average charts.
 
 
 How It Works :-
+![Alt text](./input.png "Input")
 
-![Alt text](./prediction.png "Input")
 
-#Prediction
 ![Alt text](./prediction.png "Prediction Chart")
 
 
