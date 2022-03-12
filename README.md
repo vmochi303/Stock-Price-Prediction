@@ -10,8 +10,11 @@ How It Works (website):-
 
 1.User Should enter stockticker, startdate , enddate
 
+stock ticker is unique name of stock. Ex:- TCS,AAPL(apple inc.)
+
 ![Alt text](./input.png "Input")
 
+Output :- 
 
 ![Alt text](./prediction.png "Prediction Chart")
 
