@@ -6,7 +6,10 @@ we use Long Short term memory algoritham for developing model for stock price pr
 we also make 100 days average , 200 days average upto 400 days average charts. 
 
 
-How It Works :-
+How It Works (website):-
+
+1.User Should enter stockticker, startdate , enddate
+
 ![Alt text](./input.png "Input")
 
 
